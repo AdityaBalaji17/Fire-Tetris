@@ -1,0 +1,4 @@
+SETUP INSTRUCTIONS:
+
+This game works in a web browser (not on mobiles). As the game has been tested on Chrome, it is better to try the game on Chrome. If javascript is disabled on your browser, make sure it is enabled.
+

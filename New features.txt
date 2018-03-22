@@ -1,0 +1,11 @@
+Fire tetris:
+
+New features added to tetris:
+
+In this game, the blocks which fall are on fire. At different points on the screen, there are sand particles and pieces of gun powder. Sand extinguishes the block, while gun powder makes all blocks in the vicinity explode.
+
+An explosion reduces the player's score by an amount depending on the amount of damage done to the block's environment. If a participant's score falls below zero, the game is over.
+
+ If a block is on fire for a long time, the size of the game window reduces by the height at which that block is located, making it a much tougher game for you. Plus, if 5 or more blocks are on fire at the same time, you lose. So it is imperative that all your blocks are fire-free.
+ 
+ For more details, visit the opening page "start.html" (See setup instructions)
